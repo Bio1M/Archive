@@ -3,6 +3,8 @@ commit.default
 target.mk
 .*.sw*
 
+products
+
 *.Rout.pdf
 *.html
 
