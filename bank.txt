@@ -1,0 +1,212 @@
+
+MC. What sort of evidence would falsify the statement "All flowering plants reproduce sexually"?
+
+* A. A flowering plant that does not reproduce sexually
+B. A non-flowering plant that does not reproduce sexually
+C. A non-flowering plant that does reproduce sexually
+D. A slice of pizza
+E. Either A or C
+
+Use this information for the next two questions.  A famous experiment compared bacterial growth in broth that was boiled in short-necked flasks and swan-necked flasks.  Bacteria grew in the short-necked, but not in the swan-necked, flasks.
+
+MC. What is your interpretation of this result?
+
+A. Bacteria are spontaneously generated in the short-necked flasks
+B. Some bacteria survive boiling and grow in the short-necked flasks
+* C. Bacteria arrive from the environment and grow in the short-necked flasks, but are blocked from entering the swan-necked flasks
+D. Bacteria are adapted to grow in short-necked flasks.
+
+MC.  Assume the experiment above was done carefully and correctly, as described.  What is a possible objection to reaching the conclusion above based only on this experiment?
+
+A. The experimenter may have overheated the flasks
+B. The experimenter may not have allowed enough time for spontaneous generation to occur
+C. The right kind of bacteria may not be present in the laboratory environment
+* D. Spontaneous generation may require free air flow, which may have been blocked by the swan-necked flasks
+E. The broth may not have been nutritious enough
+
+MC. A researcher wants to train birds to jump and to peck in response to different stimuli.  Which of the following strategies is most likely to be successful?
+
+A. Reward the birds with food for displaying desired behaviors.
+B. Punish the birds with electric shocks when they fail to display desired behaviors.
+C. Reward the birds when they jump appropriately, and punish them when they fail to peck appropriately.
+* D. Reward the birds when they peck appropriately, and punish them when they fail to jump appropriately.
+E. Put the birds in a lecture hall, and _tell_ them what to do, loudly and with large arm gestures.
+
+
+MC.  Claytonia virginica is a woodland spring herb with flowers that vary from white to pale pink to bright pink. The slugs which damage the plants prefer to eat pink-flowering over white-flowering plants.  The bees that pollinate this plant prefer also prefer pink to white flowers, meaning that Claytonia with pink flowers reproduce more effectively, if they survive the slugs.  A researcher observes that the percentage of different flower colors remains stable in the study population from year to year. If the researcher removes all slugs from the study population, what do you expect to happen to the distribution of flower colors in the population over time?
+
+* A. The percentage of pink flowers should increase over time.
+B. The percentage of white flowers should increase over time.
+C. The distribution of flower colors should not change.
+D. The distribution of flower colors should randomly fluctuate over time.
+
+MC.  Which of the following is an example of acclimation?
+
+A. Some animals' hemoglobin enzymes bind oxygen better than others' do.
+* B. Some animals grow thicker coats when exposed to low temperatures.
+C. Some bacteria can use the energy from sunlight to make sugars.
+D. Some plant species can absorb nitrogen better than others can.
+E. Some types of fungi are larger than others are.
+
+MC.  Parasitic species tend to have simple morphologies. Which of the following statements best explains this observation?
+
+A. Parasites are lower organisms, and this is why they have simple morphologies.
+B. Parasites do not live long enough to inherit acquired characteristics.
+* C. Simple morphologies have been naturally selected for in most parasites.
+D. Parasites have not yet had time to progress, because they evolved recently.
+
+MC. Which of the following is a fitness trade-off? 
+A. In some hornbill species, the male helps seal the female in a tree with her nest until the young are ready to fledge.  B. Moths are the best pollinators for datura flowers, but bees are the best pollinators for orchids.  C. Some lemmings run into the sea when overgrazing threatens the species.  * D. Algal genotypes that can grow fast in nitrogen-limited environments are easier for predators to digest. 
+MC. You observe that in a certain population of birds individuals with sharper beaks survive better and reproduce more than individuals with less sharp beaks.  You therefore embark on a study to see if beak shape is evolving in this population.  If you later find that beak shape does not change over many generations, which of the following would be a reasonable conclusion?
+
+A. There is no variation in beak shape in this population.
+* B. Variation in beak shape in this population is not heritable.
+C. There is no differential reproductive success in this population.
+D. Selection is not operating in this population
+E. Any of the above would be reasonable
+
+MC. Gazelles being chased by predators sometimes display a behavior called "stotting" -- they stop running and jump straight up into the air.  This slows them down, and seems to increase their chance of being caught.  Which of the following is the _least_ likely explanation of this behavior, based on evolutionary theory?
+
+A. The gazelles are male gazelles trying to show females that they have good genes, so that they will have more mating success
+B. The gazelles want to show the predator how fast and athletic they are, so that the predator will give up the chase and the gazelle can get back to eating
+* C. The gazelles want to warn the rest of the herd of the presence of predators, for the good of the species
+D. The gazelles want to see if there are any other predators hiding nearby
+
+MC. Which of the following does _not_ provide evidence _against_ the idea of goal-directed evolution?
+
+A. Parasites with simple genomes are descended from free-living organisms with more complex genomes
+* B. Blue whales evolved gradually increasing size, starting from a time when they looked more or less like small hippos
+C. Swallows evolve to have larger body size during periods of good climate, and then to have smaller body size during periods of poor climate
+D. Ostriches have wings but don't fly
+
+
+MC.  Juncos are birds with white outer tail feathers that the males display during aggressive interactions and during courtship displays. Females prefer to mate with males with more white in their tails. Females have less white in their tails than do males, and display it less often.  Which of the following types of selection was most likely involved in the evolution of white outer tail feathers in juncos?
+
+A. Artificial selection
+B. Stabilizing selection
+C. Disruptive selection
+* D. Sexual selection
+E. Balancing selection
+
+MC.  The Dunkers are a religious group that moved from Germany to Pennsylvania in the mid-1700s. They do not marry with members outside their own immediate community. Today, the Dunkers differ in gene frequencies, at many loci, from all other populations including those in their original homeland. Which of the following likely explains the genetic uniqueness of this population?
+
+A. Population bottleneck and Hardy-Weinberg equilibrium
+B. Heterozygote advantage and stabilizing selection
+C. Sexual selection and inbreeding depression
+D. Mutation and natural selection
+* E. Founder effect and genetic drift
+
+MC. Researchers raised 100 populations of peppered moths, starting with an equal number of homozygous white and dark individuals in each case.  After 10 generations of allowing 5 pairs from each population to breed in each generation, they found that 50% of the populations were either all white, or all dark.  What would be expected if they allowed 10 pairs from each population to breed in each generation, for the same time period?
+
+A. About 50% of the populations would be either all white or all dark.
+B. More than 50% of the populations would be either all white or all dark.
+* C. Less than 50% of the populations would be either all white or all dark.
+D. All of the populations would be either all white or all dark.
+
+MC. Two frog populations of the same species live at different lakes.  They have developed slight differences in appearance, but these differences seem to make no difference to their survival or reproduction.  The differences seem to be heritable, and hybrid offspring have intermediate appearance, and seem to have the same fitness as the parent populations.  A change in climate makes the area wetter, and increases the amount of interaction and inter-breeding between the two populations.   What result would you expect?
+
+A. Lower average fitness in both populations
+B. Higher average fitness in both populations
+C. Increased genetic difference between the two populations
+* D. Decreased genetic difference between the two populations
+E. Increased genetic drift
+
+MC. If piperfish males invest more energy in raising offspring than females, and females are larger and showier than the males, which of the following would you expect to be true?
+
+A. Males are more choosy about mates, and have larger variation in reproductive success.
+B. Females are more choosy about mates, and have larger variation in reproductive success.
+* C. Males are more choosy about mates, and females have larger variation in reproductive success.
+D. Females are more choosy about mates, and males have larger variation in reproductive success.
+E. Both sexes are equally choosy about mates, but females have larger variation in reproductive success.
+
+MC. A population is observed to have a a higher proportion of homozygotes than expected under Hardy-Weinberg assumptions.  Which of the following is _not_ a plausible explanation for this difference?
+
+A. Gene flow
+B. Non-random mating
+C. Disruptive selection
+* D. Inbreeding depression
+
+MC. A population is examined at a particular locus, and is found to have 30% AA individuals, 40%, AB individuals, and 30% BB individuals.  The proportion of heterozygotes in this population is
+
+A. 15% higher than would be expected in a population at H-W equilibrium with the same allele frequencies
+B. 10% higher than would be expected in a population at H-W equilibrium with the same allele frequencies
+C. The same as would be expected in a population at H-W equilibrium with the same allele frequencies
+* D. 10% lower than would be expected in a population at H-W equilibrium with the same allele frequencies
+E. 15% lower than would be expected in a population at H-W equilibrium with the same allele frequencies
+
+
+MC.  A researcher notices that in a certain moth species, some females prefer to lay eggs on domesticated plants like potatoes and tomatoes. Other females prefer to lay eggs on wild plants like Datura. In each case, the offspring grow up feeding on the plants where their mothers laid them.  The moths also tend to mate where they feed, and the researcher finds a genetic basis for preference of certain plants, based on scent, in these moths. Based on the above information, what might be occurring in this moth species?
+
+* A. divergence in sympatry
+B. divergence in allopatry
+C. divergence due to vicariance
+D. divergence due to colonization
+E. postzygotic isolation
+
+MC. What is meant by species _divergence_?
+
+A. When two species are together in the same place
+B. When two populations of the same species are in different places
+C. When two species or populations are linked by gene flow
+D. When one species evolves into another species
+* E. When one species splits into two species
+
+MC. When would you expect to see natural selection for reinforcement mechanisms (mechanisms that prevent different populations from mating with each other)?
+
+A. When the populations are allopatric
+B. When the populations would otherwise fuse over time
+C. When one population has greater mating success than the other
+* D. When hybrids have lower fitness when either parent population
+E. Under any of the above conditions
+
+MC. Which of the following is _not_ a mechanism that makes species divergence less likely in sympatry than in allopatry?
+
+A. More gene flow in sympatry
+B. More competition in sympatry
+C. Different environments in allopatry lead to differences in selection
+* D. Reinforcement is more likely in sympatry
+E. None of these are appropriate mechanisms; they could all be correct answers
+
+MC. Brussels sprouts, kale, broccoli and cabbage were all bred from the same wild ancestor.  Which of the following is supported by this fact?
+
+* A. The wild species has a lot of heritable variation
+B. The wild species has little heritable variation
+C. The wild species is under strong natural selection
+D. The wild species is not under strong natural selection
+
+MC.  Your professor wants you to construct a phylogenetic tree of orchids. She gives you tissue from seven orchid species and one lily. What is the most likely reason she gave you the lily?
+
+* A. To serve as an out-group
+B. To see if it's an unrecognized species of orchid
+C. To see if the lily and the orchids show all the same shared derived characters (synapomorphies)
+D. To see if you were paying attention
+
+(primates figure)
+
+MC. Which of the groups of taxa identified on this tree is _not_ monophyletic?
+
+A. Self-important primates (SIPs)
+B. Hominids
+C. Chimpanzees
+* D. Apes
+E. Gorillas
+
+Use this figure for the next two questions
+
+(ratites figure)
+
+Ratites are large, flightless birds (cassowaries, emus, rheas and ostriches).  They are closely related to tinamous, which are flying birds.  Since I told you about ratites and vicariance in class a couple of months ago, new research has changed what we know about ratite evolution, suggesting it occurred as shown above (and challenging the story that I told you in class!). 
+MC. Based on this tree, which of the following statements is true?
+
+A. Ratites and tinamous are both monophyletic groups
+B. Ratites are a monophyletic group, but tinamous are not
+* C. Tinamous are a monophyletic group, but ratites are not
+D. Neither ratites nor tinamous are monophyletic
+
+MC. Based on the tree, and the information above, which of the following must be true?
+
+A. Flight must have been lost more than once during the evolution of ratites
+B. Flight must have been lost by an ancestor of the tinamous, and then  regained
+C. Both A and B must be true
+* D. Either A or B must be true, but we can't tell which one
+
