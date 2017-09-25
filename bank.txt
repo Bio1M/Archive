@@ -564,3 +564,25 @@ COMMENTS Half a point for saying they are mutualists without
 mentioning protection.  Full credit for protection without the word
 mutualist.
 
+
+----------------------------------------------------------------------
+
+https://mail.google.com/mail/u/0/#search/lavignl%40mcmaster.ca/11cc36df7cc589d5
+
+For heaven's sake just make GDs for this!
+
+SA Pasted from word. I used bolding to make these better (at Lovaye's suggestion)
+
+SA. An eye-color locus is studied in a population of people.  Two alleles are found: L is associated with lighter-coloured eyes, and D is associated with darker-coloured eyes.  The study finds that 30% of individuals sampled have genotype LL, 20% have genotype LD, and 50% have genotype DD.
+a) What is the frequency of each of the alleles? (2 points)
+b) Based on the allele frequencies calculated above, what genotype frequencies would be expected under the Hardy-Weinberg assumptions? (2 points)
+c) How (in which direction) do the observed frequencies differ from the expected frequencies you calculated? (1 point)
+d) Assuming this difference is not due to random chance, what is a likely explanation of the difference? (2 points)
+SA. You are studying a new clade, and identify three derived traits: flight, blueness and singing.  Species A is blue (only).  Species B flies and sings.  Species C is blue, flies and sings.
+a) Make three separate, labeled trees showing the phylogenetic relationship between A, B and C that you would infer if you looked only at one trait at a time.  (2 points)
+b) Based on all the data above, what is your best guess for the correct phylogenetic tree, and why? (2 points)
+c) Which of the trees from part a) differs from the one in part b)? (1 point)
+d) If the tree chosen in part b) is correct, what would you conclude about the trait identified in part c)? (1 point)
+
+
+
