@@ -578,11 +578,716 @@ a) What is the frequency of each of the alleles? (2 points)
 b) Based on the allele frequencies calculated above, what genotype frequencies would be expected under the Hardy-Weinberg assumptions? (2 points)
 c) How (in which direction) do the observed frequencies differ from the expected frequencies you calculated? (1 point)
 d) Assuming this difference is not due to random chance, what is a likely explanation of the difference? (2 points)
+
 SA. You are studying a new clade, and identify three derived traits: flight, blueness and singing.  Species A is blue (only).  Species B flies and sings.  Species C is blue, flies and sings.
 a) Make three separate, labeled trees showing the phylogenetic relationship between A, B and C that you would infer if you looked only at one trait at a time.  (2 points)
 b) Based on all the data above, what is your best guess for the correct phylogenetic tree, and why? (2 points)
 c) Which of the trees from part a) differs from the one in part b)? (1 point)
 d) If the tree chosen in part b) is correct, what would you conclude about the trait identified in part c)? (1 point)
 
+---------- Forwarded message ----------
+From: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date: Sat, Nov 28, 2009 at 10:46 AM
+Subject: Final
+To: Karen Haines <hainesk@mcmaster.ca>, Alastair Tracey <atracey@mcmaster.ca>, Audrey Patocs <audreypatocs@hotmail.com>, Jurek Kolasa <kolasa@mcmaster.ca>
 
 
+Attached please find 30 proposed exam questions in plain text.  Jurek,
+please note that you will only need 69, as Alastair gets to set the
+first question (which test).
+
+Comments and suggestions are welcome.
+
+Karen, the words with underscores (like _this_) should be converted to
+italic, please.  Let me know if you have any other questions about
+typesetting.
+
+JD
+
+----------------------------------------------------------------------
+
+
+
+MC. What sort of evidence would falsify the statement "All primates
+have fingernails"?
+
+* A. A primate that does not have fingernails
+B. A non-primate that does not have fingernails
+C. A non-primate that does have fingernails
+D. A slice of pizza
+E. Either A or C
+
+USE THIS INFORMATION FOR THE NEXT TWO QUESTIONS.  A famous experiment
+compared bacterial growth in broth that was boiled in short-necked
+flasks and swan-necked flasks.  Bacteria grew in the short-necked, but
+not in the swan-necked, flasks.
+
+MC. What is your interpretation of this result?
+
+A. Bacteria are spontaneously generated in the short-necked flasks
+B. Some bacteria survive boiling and grow in the short-necked flasks
+* C. Bacteria arrive from the environment and grow in the short-necked
+flasks, but are blocked from entering the swan-necked flasks
+D. Bacteria are adapted to grow in short-necked flasks.
+
+MC.  Assume the experiment above was done carefully and correctly, as
+described.  What is a possible objection to reaching the conclusion
+above based only on this experiment?
+
+A. The experimenter may have overheated the flasks
+B. The experimenter may not have allowed enough time for spontaneous
+generation to occur
+C. The right kind of bacteria may not be present in the laboratory environment
+* D. Spontaneous generation may require free air flow, which may have
+been blocked by the swan-necked flasks
+E. The broth may not have been nutritious enough
+
+MC. A researcher wants to train birds to jump and to peck in response
+to different stimuli.  Which of the following strategies is most
+likely to be successful?
+
+A. Reward the birds with food for displaying desired behaviors.
+B. Punish the birds with electric shocks when they fail to display
+desired behaviors.
+C. Reward the birds when they jump appropriately, and punish them when
+they fail to peck appropriately.
+* D. Reward the birds when they peck appropriately, and punish them
+when they fail to jump appropriately.
+E. Put the birds in a lecture hall, and _tell_ them what to do, loudly
+and with large arm gestures.
+
+
+MC. The lifetime Darwinian fitness of one organism is greater than
+that of another organism if:
+
+a.  it lives longer than the other
+
+b.  it is able to outcompete the other for access to resources
+
+c.  it mates more frequently
+
+* d.  it leaves more viable offspring than the other
+
+e.  c and d
+
+MC. Which of the following is an example of a fitness trade-off?
+
+A. In some hornbill species, the male helps seal the female in a tree
+with her nest until the young are ready to fledge.
+
+B. Moths are the best pollinators for datura flowers, but bees are the
+best pollinators for orchids.
+
+C. Some lemmings run into the sea when overgrazing threatens the species.
+
+* D. Tree species that grow the fastest in high-light conditions do
+not survive as well as other species in low-light conditions
+
+MC. You observe that in a certain population of birds individuals with
+sharper beaks survive better and reproduce more than individuals with
+less sharp beaks.  You therefore embark on a study to see if beak
+shape is evolving in this population.  If you later find that beak
+shape does not change over many generations, which of the following
+would be a reasonable conclusion?
+
+A. There is no variation in beak shape in this population.
+
+* B. Variation in beak shape in this population is not heritable.
+
+C. There is no differential reproductive success in this population.
+
+D. Selection is not operating in this population
+
+E. Any of the above would be reasonable
+
+
+
+MC. When Darwin studied the finch population of the Galápagos Islands,
+he observed a variation of beak sizes related to the size of seeds
+available on their respective islands. Larger beaks were better
+adapted for larger seeds, and smaller beaks were better adapted for
+smaller seeds, making medium sized beaks maladaptive. This is an
+example of
+
+a.  Directional selection
+
+b.  Mutational Drift
+
+* c.  Disruptive selection
+
+d.  Genetic Flow
+
+MC. Suppose 36% of a remote mountain village can taste
+phenylthiocarbamide (PTC) and must therefore have at least one copy of
+the dominant PTC taster allele. If this population conforms to
+Hardy-Weinberg expectations for this gene, what percentage of the
+population must be heterozygous for this trait?
+
+a.  16%
+
+* b.  32%
+
+c.  40%
+
+d.  48%
+
+e.  60%
+
+MC. An island in the Galapagos has a resident population of marine
+iguanas. Their only historical predator is a hawk which is able to
+catch small and large individuals with equal ease. If rats were
+introduced to the island, and preferentially attacked smaller iguanas,
+you might expect to see iguana body size to__________ and the
+population to be under __________ selection.
+
+* a.  increase; directional
+
+b.  increase; disruptive
+
+c.  decrease; directional
+
+d.  decrease; stabilizing
+
+e.  stay the same; stabilizing
+
+MC. If piperfish males invest more energy in raising offspring than
+females, and females are larger and showier than the males, which of
+the following would you expect to be true?
+
+A. Males are more choosy about mates, and have larger variation in
+reproductive success.
+
+B. Females are more choosy about mates, and have larger variation in
+reproductive success.
+
+* C. Males are more choosy about mates, and females have larger
+variation in reproductive success.
+
+D. Females are more choosy about mates, and males have larger
+variation in reproductive success.
+
+E. Both sexes are equally choosy about mates, but females have larger
+variation in reproductive success.
+
+MC. A population is observed to have a higher proportion of
+heterozygotes than expected under Hardy-Weinberg assumptions.  Which
+of the following is _not_ a plausible explanation for this difference?
+
+A. Gene flow
+
+B. Non-random mating
+
+* C. Disruptive selection
+
+D. Inbreeding depression
+
+
+
+
+MC. Which of the following is _not_ a mechanism that makes species
+divergence less likely in sympatry than in allopatry?
+
+A. More gene flow in sympatry
+
+B. More competition in sympatry
+
+C. Different environments in allopatry lead to differences in selection
+
+* D. Reinforcement is more likely in sympatry
+
+E. None of these are appropriate mechanisms; they could all be correct answers
+
+
+MC. What is meant by species _divergence_?
+
+A. When two species are together in the same place
+
+B. When two populations of the same species are in different places
+
+C. When two species or populations are linked by gene flow
+
+D. When one species evolves into another species
+
+* E. When one species splits into two species
+
+MC.  Three populations of crickets look very similar, but the males
+have courtship songs that sound different. This difference in songs
+could reasonably be explained as:
+
+A. A prezygotic isolating mechanism resulting from fusion
+
+B. A postzygotic isolating mechanism resulting from fusion
+
+* C. A prezygotic isolating mechanism resulting from reinforcement
+
+D. A postzygotic isolating mechanism resulting from reinforcement
+
+E. All of the above
+
+MC.  Two hypothetical species of songbirds, A and B, overwinter
+together in mixed flocks in Costa Rica. In spring, species A goes to
+the east coast of North America, and species B goes to the west coast.
+ Breeding takes place in North America in the spring and summer. What
+can you say about the isolating mechanisms of these two species?
+
+A. They must have different courtship patterns.
+
+B. They must have a post-zygotic isolating mechanism.
+
+* C. The two species are reproductively isolated by allopatry.
+
+D. The two species are reproductively isolated by genetic incompatibility.
+
+E. Reinforcement must be occurring when they winter together.
+
+
+CHAPTER 26 Phylogenies and the history of life
+
+MC. You are given data from a DNA hybridization study on a group of
+bacteria.  This data indicates how similar the DNA of each type is to
+that of each other, but not what the differences are.  What kind of
+phylogenetic analysis could you do on these data?
+
+*A. Phenetic analysis
+B. Cladistic analysis
+C. Parsimony analysis
+D. Either A or B
+E. No phylogenetic analysis can be done
+
+MC. You find a new fossil deposit with many red algal species, but no
+green plant species.  What would you conclude?
+
+A. There were no plant species present at this time and location
+B. Conditions were not right to fossilize plant species
+C. There was a mass extinction event among plant species at this
+location
+* D. Either A or B
+E. Either B or C
+
+MC. Why are shared, derived characters better evidence of evolutionary
+relatedness than shared, basal characters?
+
+A. Because basal characters are also shared by the outgroup
+* B. Because no changes are required to explain the presence of basal characters
+C. Because basal characters cannot be measured as reliably as derived characters
+D. Because the presence of basal characters is not due to convergent evolution
+
+
+MC. An impala gives an alarm call when it smells a leopard.  Which of
+the following is the most likely to be the _ultimate_ cause of this
+behavior?
+
+A. Direct selection for self-preservation
+
+* B. Kin selection to help related individuals
+
+C. Species-level selection to help other impalas
+
+D. A circuit in the impala's brain that recognizes the smell and
+triggers the behaviour
+
+E. Imprinting on the behavior of other impalas
+
+MC. Which of the following is _least_ likely to be a learned behaviour?
+
+* A. Fear of falling in mountain goats
+
+B. Fear of falling in mice
+
+C. Avoidance of poisonous insects by birds
+
+D. Avoidance of poisonous seeds by squirrels
+
+E. Chimpanzees helping each other stay clean and free of insects
+
+MC. Which of the following is _not_ a likely reason for communication?
+
+A. Providing honest information to rivals of the same species, to avoid conflict
+
+B. Providing deceptive information to rivals of the same species, to
+avoid conflict
+
+C. Providing honest information to predators, to avoid being eaten
+
+D. Providing deceptive information to predators, to avoid being eaten
+
+* E. All  of the above are likely reasons for communication; none is a
+good answer
+
+MC. What is the coefficient of relatedness (r) between a grandfather
+and a grand-daughter?
+
+A. 1/2
+
+B. 1/3
+
+* C. 1/4
+
+D. 1/8
+
+E. 3/8
+
+
+MC. Anatomically modern humans spread around the world around
+
+A. 500 kya
+
+B. 200 kya
+
+C. 100 kya
+
+* D. 50 kya
+
+E. 5 years ago
+
+MC. Which of the following is _not_ an explanation that scientists
+suggest for the spread of modern humans?
+
+A. An evolutionary change that is not visible in fossil specimens
+
+* B. An evolutionary change that is visible in fossil specimens
+
+C. Gradual cultural change
+
+D. Sudden cultural change
+
+E. Gradual cultural and evolutionary change
+
+MC. Since our last common ancestor with chimpanzees, humans show large
+changes in protein expression patterns in which cell types?
+
+A. Liver
+
+B. Stomach
+
+* C. Brain
+
+D. A and B
+
+E. All of the above
+
+MC. The oldest anatomically modern human fossils are found in:
+
+A. the Middle East.
+
+* B. Africa.
+
+C. Asia.
+
+D.  southern Australia.
+
+E. Westdale
+
+
+
+MC. Which of the following is _not_ true?
+
+A. Children are very efficient at learning new phonemes
+
+B. Children are very efficient at processing (distinguishing and
+understanding) phonemes
+
+C. Children are very efficient at learning grammar
+
+* D. Adults are very efficient at learning new phonemes
+
+E. Adults are very efficient at processing phonemes
+
+MC. Which of the following separates humans from other "smart" animals?
+
+A. Humans are good at learning by facilitation
+
+* B. Humans are good at learning by observation
+
+C. Humans use communication to build social bonds
+
+D. Humans groups share cultural practices
+
+E. Humans use tools
+
+MC. Adults in a a wine-making village are all involved in making and
+evaluating wine, and are all better at distinguishing smells than
+people in a nearby wheat-growing village, but some of the people in
+the village are much better than others.  Which of the following is
+most likely to be true?
+
+A. The differences within the village are mostly environmental, while
+those between the village and other villages are mostly genetic
+
+* B. The differences within the village are mostly genetic, while
+those between the village and other villages are mostly environmental
+
+C. Both sets of differences are mostly genetic
+
+D. Both sets of differences are mostly environmental
+
+
+
+
+---------- Forwarded message ----------
+From: Jonathan Dushoff <dushoff@mcmaster.ca>
+Date: Thu, Nov 12, 2009 at 10:33 PM
+Subject: Midterm questions
+To: Karen Haines <hainesk@mcmaster.ca>, Alastair Tracey <atracey@mcmaster.ca>
+
+
+Enclosed please find 15 midterm questions, and a short-answer question
+worth 5 points.  _Underscores_ mean that words should be _italicized_.
+ * Stars indicate the correct answers.
+
+Please share any comments, concerns or questions.
+
+Best,
+
+JD
+
+----------------------------------------------------------------------
+
+MC. When would you expect to see natural selection for reinforcement
+mechanisms (mechanisms that prevent different populations from mating
+with each other)?
+
+A. When the populations are allopatric
+
+B. When the populations would otherwise fuse over time
+
+C. When one population has greater mating success than the other
+
+* D. When hybrids have lower fitness than either parent population
+
+E. Under any of the above conditions
+
+-----------------------------------------------------------------
+
+MC.  A researcher notices that in a certain moth species, some females
+prefer to lay eggs on domesticated plants like potatoes and tomatoes.
+Other females prefer to lay eggs on wild plants like Datura. In each
+case, the offspring grow up feeding on the plants where their mothers
+laid them.  The moths also tend to mate where they feed, and the
+researcher finds a genetic basis for preference of certain plants,
+based on scent, in these moths. Based on the above information, what
+might be occurring in this moth species?
+
+* A. divergence in sympatry
+
+B. divergence in allopatry
+
+C. divergence due to vicariance
+
+D. divergence due to colonization
+
+E. postzygotic isolation
+
+----------------------------------------------------------------------
+
+MC. Which of the following is the most significant criterion for
+identifying species according to the Biological Species Concept?
+
+a.  Populations are morphologically distinct.
+
+* b.  Reproductive isolation between populations.
+
+c.  A strong presence in the fossil record.
+
+d.  The smallest monophyletic group on a phylogenetic tree.
+
+e.  The largest monophyletic group on a phylogenetic tree.
+
+----------------------------------------------------------------------
+
+MC. What outcomes can occur where the ranges of two species overlap?
+
+a.  the species will interbreed, eventually fusing over time
+
+b.  a stable hybrid zone will form if hybrids are better adapted to
+the area of overlap than either parent species
+
+c.  species will continue to diverge and be isolated by behavioural or
+genetic mechanisms
+
+* d.  all of the above are possible outcomes
+
+e.  none of the above is a possible outcome
+
+----------------------------------------------------------------------
+MC. Which of the following is not an example of behavior?
+
+A. Thirsty zebras search for water.
+
+B. Plants produce toxic chemicals to protect themselves from insects.
+
+C. Students prepare for a biology examination by studying.
+
+* D. Moths who live on dirty tree trunks evolve darker coloration.
+
+E. Baby geese "imprint" on the first moving object that they see.
+
+----------------------------------------------------------------------
+
+MC. Which of the following provides the best evidence that web weaving
+in spiders is a stereotyped behavior?
+
+A. Spiders do not spend enough time with their mothers to learn how to
+weave a web.
+
+B. Spiders are not intelligent enough to learn how to weave a web by
+observation.
+
+* C. A spider who is interrupted in web-weaving will start again from
+the beginning, and repeat all the steps.
+
+D. Spiders would not be able to survive and reproduce without making webs.
+
+E. Spiders who are experimentally prevented from observing other
+spiders' weaving are still able to make webs.
+
+----------------------------------------------------------------------
+
+MC. Which of the following should make an organism more likely to help another?
+
+A. Lower relatedness between the two
+
+B. A lower benefit of helping
+
+* C. A lower cost of helping
+
+D. Less information available to the organisms about the situation
+
+E. Less chance that the organisms will meet again
+
+----------------------------------------------------------------------
+
+MC. Anatomically modern humans evolved around
+
+A. 500 kya
+
+* B. 200 kya
+
+C. 100 kya
+
+D. 50 kya
+
+E. 5 years ago
+
+----------------------------------------------------------------------
+
+MC. Why do researchers include information about mice when comparing
+humans and chimpanzees to understand human evolution?
+
+A. We first need to understand how chimpanzees evolved from mice,
+before we can understand how humans evolved from chimpanzees
+
+B. By replicating our comparisons, we reduce the possibility that our
+findings are due to chance
+
+* C. The mice serve as an outgroup, indicating which traits are more
+likely to be basal
+
+D. The mice serve as a control group, so that conditions for the
+humans and chimpanzees can be as similar as possible
+
+----------------------------------------------------------------------
+
+MC. Which of the following is true?
+
+A. The difference between random humans within a group is bigger than
+the difference between random humans between groups
+
+* B. The difference between random humans within a group is bigger
+than the difference between typical humans between groups
+
+C. The difference between random chimpanzees within a group is bigger
+than the difference between typical chimpanzees between groups
+
+D. B and C
+
+E. A, B and C
+
+----------------------------------------------------------------------
+
+MC. Which of the following is _not_ a trait used to distinguish the
+order primates from other mammals?
+
+A. Grasping hands and feet
+
+* B. Ability to walk upright
+
+C. Fingernails and sensitive fingertips
+
+D. Eyes are used together stereoscopically
+
+----------------------------------------------------------------------
+
+MC. Among nonhuman primates, inbreeding:
+
+A. is common.
+
+B. is rare.
+
+C. never occurs.
+
+D. is avoided only among siblings.
+
+MC. Patterns of inbreeding avoidance in people provide evidence that:
+
+A. Environment has a stronger effect on behavior than culture does
+
+B. Genetics have a stronger effect on behavior than culture does
+
+C. Environment and genetics interact in complex ways to produce behaviors
+
+D. Environment and culture interact in complex ways to produce behaviors
+
+* E. Culture and genetics interact in complex ways to produce behaviors
+
+----------------------------------------------------------------------
+
+MC. Researchers find that on average identical twins are much more
+similar in height than fraternal twins of the same gender are.  This
+provides evidence that:
+
+A. There is no genetic variation in height
+
+* B. There is strong genetic variation in height
+
+C. There is no environmental variation in height
+
+D. There is strong environmental variation in height
+
+E. Shaquille O'Neal is not an identical twin
+
+----------------------------------------------------------------------
+
+MC. Which of the following is _not_ a cause of environmental variation?
+
+* A. Differences in heritable traits
+
+B. Unpredictable results of details of development
+
+C. Differences in access to resources
+
+D. Differences in exposure to diseases
+
+E. Differences in climatic conditions
+
+----------------------------------------------------------------------
+
+SA. You are asked to construct a phylogeny that reflects the
+evolutionary history of four species. Compared to an outgroup, Species
+1 has derived characters A and B. Species 2 has derived characters A,
+C, D. Species 3 has derived characters A, B and E. Species 4 has
+derived characters A, C, D, E, F, G.
+
+a) What approach should you use to construct this phylogeny? (1 point)
+
+b) What feature of the data led you to choose this approach? (1 point)
+
+c) Which of the traits above will be useful in inferring the
+relationship between these four species? (1 point)
+
+d) Draw a tree to show what phylogeny you would infer from these data.
+ Hint: simplify by using the answer from b). (2 points)
+
+
+
+https://docs.google.com/document/d/1Sm8paTuT_8_CYVjMi1tvxj9IRmI6Y-35CpKdtZgS9QE/edit
