@@ -1,0 +1,200 @@
+
+MC.  Your professor wants you to construct a phylogenetic tree of orchids. She gives you tissue from seven orchid species and one lily. What is the most likely reason she gave you the lily?
+
+* A. To serve as an out-group
+B. To see if it's an unrecognized species of orchid
+C. To see if the lily and the orchids show all the same shared derived characters (synapomorphies)
+D. To see if you were paying attention
+
+(primates figure)
+
+MC. Which of the groups of taxa identified on this tree is _not_ monophyletic?
+
+A. Self-important primates (SIPs)
+B. Hominids
+C. Chimpanzees
+* D. Apes
+E. Gorillas
+
+Use this figure for the next two questions
+
+(ratites figure)
+
+Ratites are large, flightless birds (cassowaries, emus, rheas and ostriches).  They are closely related to tinamous, which are flying birds.  Since I told you about ratites and vicariance in class a couple of months ago, new research has changed what we know about ratite evolution, suggesting it occurred as shown above (and challenging the story that I told you in class!). 
+MC. Based on this tree, which of the following statements is true?
+
+A. Ratites and tinamous are both monophyletic groups
+B. Ratites are a monophyletic group, but tinamous are not
+* C. Tinamous are a monophyletic group, but ratites are not
+D. Neither ratites nor tinamous are monophyletic
+
+MC. Based on the tree, and the information above, which of the following must be true?
+
+A. Flight must have been lost more than once during the evolution of ratites
+B. Flight must have been lost by an ancestor of the tinamous, and then  regained
+C. Both A and B must be true
+* D. Either A or B must be true, but we can't tell which one
+
+MC. You are given data from a DNA hybridization study on a group of bacteria.  This data indicates how similar the DNA of each type is to that of each other type, but not what the differences are.  What kind of phylogenetic analysis could you do on these data?
+
+*A. Phenetic analysis
+B. Cladistic analysis
+C. Parsimony analysis
+D. Either A or B
+E. No phylogenetic analysis can be done
+
+
+MC. You find a new fossil deposit with many red algal species, but no green plant species.  What would you conclude?
+
+A. There were no plant species present at this time and location
+B. Conditions were not right to fossilize plant species at this time and location
+C. There was a mass extinction event among plant species at this time and location
+*D. Either A or B
+E. Either B or C
+
+MC. Which of the following statements best describes the use of the principle of parsimony in constructing phylogenetic trees?
+
+A. We use the tree that best reflects the molecular clock
+*B. We use the simplest tree that describes observed patterns
+C. We use synapomorphies to identify related species
+D. We use an outgroup to root the tree
+E. We use parsimony to calculate the likelihood of the tree
+
+MC. Why do researchers include information about mice when comparing
+humans and chimpanzees to understand human evolution?
+
+A. We first need to understand how chimpanzees evolved from mice,
+before we can understand how humans evolved from chimpanzees
+
+B. By replicating our comparisons, we reduce the possibility that our
+findings are due to chance
+
+* C. The mice serve as an outgroup, indicating which traits are more
+likely to be basal
+
+D. The mice serve as a control group, so that conditions for the
+humans and chimpanzees can be as similar as possible
+
+
+MC. Why are shared, derived characters better evidence of evolutionary
+relatedness than shared, basal characters?
+
+A. Because basal characters are also shared by the outgroup
+*B. Because no evolutionary changes are required to explain the presence of basal characters
+C. Because basal characters cannot be measured as reliably as derived characters
+D. Because the presence of basal characters is not due to convergent evolution
+
+MC. The fossil record is relatively rich in organisms that lived in shallow water or mud, as opposed to the open ocean, or land.  This is likely primarily due to:
+
+A. Taxonomic bias
+*B. Habitat bias
+C. Diversity bias
+D. Abundance bias
+E. Temporal bias
+
+((Figure))
+
+MC. According to the figure above, which of the following groups is _not_ a clade?
+
+A. Hominids
+B. Chimpanzees
+*C. Apes
+D. Gorillas
+E. Australopithecus
+
+MC. According to the figure above, which of the following is _not_ a pair of sister taxa?
+
+A. SIPs (self-important primates) and gorillas
+B. Chimpanzees and hominids
+C. Chimps and bonobos
+*D. Chimpanzees and gorillas
+E. Humans and Australopithecus
+
+----------------------------------------------------------------------
+
+SA (evening). You are asked to construct a phylogeny that reflects the
+evolutionary history of four species. Compared to an outgroup, Species
+1 has derived characters A and D. Species 2 has derived characters A,
+B, C. Species 4 has derived characters A, B, C, E, F, G. Species 3 has
+derived characters A, D and E.
+
+a) What approach should you use to construct this phylogeny? (1 point)
+
+ANS The cladistic approach, using parsimony.
+
+COMMENTS Full credit for cladistic approach, or parsimony, or a
+parsimonious explanation of synapomorphies.  Half credit for
+synapomorphies without cladistics or parsimony.
+
+b) Which of the traits above will be useful in inferring the
+relationship between these four species? (1 point)
+
+ANS B, C, D and E.  A is not informative because all of the taxa have
+it.  F and G are not informative in a simple cladistic approach
+because only one taxon has them.
+
+COMMENTS Half a point if only one mistake is made (including both F
+and G can count as one mistake).
+
+c) What phylogeny would you infer? Hint: simplify by using the answer
+from b). (2 points)
+
+ANS ((Drawing)).  Species 2 and 4 are sisters, because they share two
+synapomorphies (C and B).  There is no good way to have E evolve only
+once, so we make 1 and 3 sisters so that D can evolve only once.
+
+COMMENTS 1 point for 2 and 4 as sister taxa, one point for 1 and 3 as
+sister taxa.
+
+
+SA (morning). You are asked to construct a phylogeny that reflects the
+evolutionary history of four species. Compared to an outgroup, Species
+1 has derived characters A and B. Species 2 has derived characters A,
+C, D. Species 3 has derived characters A, C, D, E, F, G. Species 4 has
+derived characters A, B and F.
+
+a) What approach should you use to construct this phylogeny? (1 point)
+
+ANS The cladistic approach, using parsimony.
+
+COMMENTS Full credit for cladistic approach, or parsimony, or a
+parsimonious explanation of synapomorphies.  Half credit for
+synapomorphies without cladistics or parsimony.
+
+b) Which of the traits above will be useful in inferring the
+relationship between these four species? (1 point)
+
+ANS B, C, D and F.  A is not informative because all of the taxa have
+it.  E and G are not informative in a simple cladistic approach
+because only one taxon has them.
+
+COMMENTS Half a point if only one mistake is made (including both E
+and G can count as one mistake).
+
+c) What phylogeny would you infer? Hint: simplify by using the answer
+from b). (2 points)
+
+ANS ((Drawing)).  Species 2 and 3 are sisters, because they share two
+synapomorphies (C and D).  There is no good way to have F evolve only
+once, so we make 1 and 4 sisters so that B can evolve only once.
+
+COMMENTS 1 point for 2 and 3 as sister taxa, one point for 1 and 4 as
+sister taxa.
+
+----------------------------------------------------------------------
+
+SA. You are asked to construct a phylogeny that reflects the
+evolutionary history of four species. Compared to an outgroup, Species
+1 has derived characters A and B. Species 2 has derived characters A,
+C, D. Species 3 has derived characters A, B and E. Species 4 has
+derived characters A, C, D, E, F, G.
+
+a) What approach should you use to construct this phylogeny? (1 point)
+
+b) What feature of the data led you to choose this approach? (1 point)
+
+c) Which of the traits above will be useful in inferring the
+relationship between these four species? (1 point)
+
+d) Draw a tree to show what phylogeny you would infer from these data.
+ Hint: simplify by using the answer from c). (2 points)

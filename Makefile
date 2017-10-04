@@ -7,7 +7,7 @@ target: $(target)
 
 ##################################################################
 
-Sources = Makefile .gitignore README.md sub.mk LICENSE.md
+Sources += Makefile .gitignore README.md sub.mk LICENSE.md
 include sub.mk
 # include $(ms)/perl.def
 
@@ -15,8 +15,16 @@ include sub.mk
 
 ## Content
 
-## Just dumping what I can find for now.
+## Bank has been sorted; should contain only _links_ to .doc versions
 Sources += bank.txt
+
+## Organizing by unit
+Sources += intro.txt ns.txt processes.txt speciation.txt phylogeny.txt apes.txt homo.txt
+
+## Stuff from sections I'm not doing in 2017
+## ecology includes a lot of behaviour stuff; maybe that's what it should be called
+## taxa is probably forever eliminated
+Sources += taxa.txt ecology.txt humans.txt
 
 Sources += images/
 

@@ -1,0 +1,127 @@
+
+MC. An island in the Galapagos has a resident population of marine
+iguanas. Their only historical predator is a hawk which is able to
+catch small and large individuals with equal ease. If rats were
+introduced to the island, and preferentially attacked smaller iguanas,
+you might expect to see iguana body size to__________ and the
+population to be under __________ selection.
+
+* a.  increase; directional
+
+b.  increase; disruptive
+
+c.  decrease; directional
+
+d.  decrease; stabilizing
+
+e.  stay the same; stabilizing
+
+MC. Suppose 36% of a remote mountain village can taste
+phenylthiocarbamide (PTC) and must therefore have at least one copy of
+the dominant PTC taster allele. If this population conforms to
+Hardy-Weinberg expectations for this gene, what percentage of the
+population must be heterozygous for this trait?
+
+a.  16%
+
+* b.  32%
+
+c.  40%
+
+d.  48%
+
+e.  60%
+
+MC. When Darwin studied the finch population of the Galápagos Islands,
+he observed a variation of beak sizes related to the size of seeds
+available on their respective islands. Larger beaks were better
+adapted for larger seeds, and smaller beaks were better adapted for
+smaller seeds, making medium sized beaks maladaptive. This is an
+example of
+
+a.  Directional selection
+
+b.  Mutational Drift
+
+* c.  Disruptive selection
+
+d.  Genetic Flow
+
+MC. Two frog populations of the same species live at different lakes.  They have developed slight differences in appearance, but these differences seem to make no difference to their survival or reproduction.  The differences seem to be heritable, and hybrid offspring have intermediate appearance, and seem to have the same fitness as the parent populations.  A change in climate makes the area wetter, and increases the amount of interaction and inter-breeding between the two populations.   What result would you expect?
+
+A. Lower average fitness in both populations
+B. Higher average fitness in both populations
+C. Increased genetic difference between the two populations
+* D. Decreased genetic difference between the two populations
+E. Increased genetic drift
+
+MC. If piperfish males invest more energy in raising offspring than females, and females are larger and showier than the males, which of the following would you expect to be true?
+
+A. Males are more choosy about mates, and have larger variation in reproductive success.
+B. Females are more choosy about mates, and have larger variation in reproductive success.
+* C. Males are more choosy about mates, and females have larger variation in reproductive success.
+D. Females are more choosy about mates, and males have larger variation in reproductive success.
+E. Both sexes are equally choosy about mates, but females have larger variation in reproductive success.
+
+MC. A population is observed to have a a higher proportion of homozygotes than expected under Hardy-Weinberg assumptions.  Which of the following is _not_ a plausible explanation for this difference?
+
+A. Gene flow
+B. Non-random mating
+C. Disruptive selection
+* D. Inbreeding depression
+
+MC. A population is observed to have a higher proportion of
+heterozygotes than expected under Hardy-Weinberg assumptions.  Which
+of the following is _not_ a plausible explanation for this difference?
+
+A. Gene flow
+
+B. Non-random mating
+
+* C. Disruptive selection
+
+D. Inbreeding depression
+
+
+
+MC. A population is examined at a particular locus, and is found to have 30% AA individuals, 40%, AB individuals, and 30% BB individuals.  The proportion of heterozygotes in this population is
+
+A. 15% higher than would be expected in a population at H-W equilibrium with the same allele frequencies
+B. 10% higher than would be expected in a population at H-W equilibrium with the same allele frequencies
+C. The same as would be expected in a population at H-W equilibrium with the same allele frequencies
+* D. 10% lower than would be expected in a population at H-W equilibrium with the same allele frequencies
+E. 15% lower than would be expected in a population at H-W equilibrium with the same allele frequencies
+
+
+
+MC.  Juncos are birds with white outer tail feathers that the males display during aggressive interactions and during courtship displays. Females prefer to mate with males with more white in their tails. Females have less white in their tails than do males, and display it less often.  Which of the following types of selection was most likely involved in the evolution of white outer tail feathers in juncos?
+
+A. Artificial selection
+B. Stabilizing selection
+C. Disruptive selection
+* D. Sexual selection
+E. Balancing selection
+
+MC.  The Dunkers are a religious group that moved from Germany to Pennsylvania in the mid-1700s. They do not marry with members outside their own immediate community. Today, the Dunkers differ in gene frequencies, at many loci, from all other populations including those in their original homeland. Which of the following likely explains the genetic uniqueness of this population?
+
+A. Population bottleneck and Hardy-Weinberg equilibrium
+B. Heterozygote advantage and stabilizing selection
+C. Sexual selection and inbreeding depression
+D. Mutation and natural selection
+* E. Founder effect and genetic drift
+
+MC. Researchers raised 100 populations of peppered moths, starting with an equal number of homozygous white and dark individuals in each case.  After 10 generations of allowing 5 pairs from each population to breed in each generation, they found that 50% of the populations were either all white, or all dark.  What would be expected if they allowed 10 pairs from each population to breed in each generation, for the same time period?
+
+A. About 50% of the populations would be either all white or all dark.
+B. More than 50% of the populations would be either all white or all dark.
+* C. Less than 50% of the populations would be either all white or all dark.
+D. All of the populations would be either all white or all dark.
+
+MC. Evidence from genetic comparisons with chimpanzees provides evidence that which sort of genes in humans are under selection for diversity?
+
+A. Genes that control gender
+B. Mating-system genes that control which individuals we find attractive
+C. Genes that control sexual preference (which gender we find attractive)
+*D. Immune system genes
+E. Genes for eusociality
+
