@@ -69,11 +69,11 @@ C. Different environments in allopatry lead to differences in selection
 * D. Reinforcement is more likely in sympatry
 E. None of these are appropriate mechanisms; they could all be correct answers
 
-MC.  Two hypothetical species of songbirds, A and B, overwinter
-together in mixed flocks in Costa Rica. In spring, species A goes to
-the east coast of North America, and species B goes to the west coast.
- Breeding takes place in North America in the spring and summer. What
-can you say about the isolating mechanisms of these two species?
+MC.  Two hypothetical species of songbirds, A and B, overwinter together in
+mixed flocks in northern South America. In spring, species A goes to the east
+coast of North America, and species B goes to the west coast.  Breeding takes
+place in North America in the spring and summer. What can you say about the
+isolating mechanisms of these two species?
 
 A. They must have different courtship patterns.
 
