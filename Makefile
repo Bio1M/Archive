@@ -34,6 +34,7 @@ products:
 # Not a very good picture; it's archived and I might like the rule, but I'm not feeling inclined to use the picture
 products/primates.png: 
 
+# morning and evening are super-simple, but probably useful in some context …
 products/%.png: images/%.emf
 	$(MAKE) products
 	libreoffice --headless --convert-to png --outdir products $<

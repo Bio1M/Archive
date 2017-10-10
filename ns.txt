@@ -1,17 +1,14 @@
+Added to practice
 
-MC. Researchers find that on average identical twins are much more
-similar in height than fraternal twins of the same gender are.  This
+MC. Researchers find that on average identical twins (who share all of their genes) are much more
+similar in height than are fraternal twins of the same gender (who share half of their genes).  This
 provides evidence that:
 
 A. There is no genetic variation in height
-
 * B. There is strong genetic variation in height
-
 C. There is no environmental variation in height
-
 D. There is strong environmental variation in height
-
-E. Shaquille O'Neal is not an identical twin
+E. LeBron James does not have an identical twin
 
 MC.  Claytonia virginica is a woodland spring herb with flowers that vary from white to pale pink to bright pink. The slugs which damage the plants prefer to eat pink-flowering over white-flowering plants.  The bees that pollinate this plant prefer also prefer pink to white flowers, meaning that Claytonia with pink flowers reproduce more effectively, if they survive the slugs.  A researcher observes that the percentage of different flower colors remains stable in the study population from year to year. If the researcher removes all slugs from the study population, what do you expect to happen to the distribution of flower colors in the population over time?
 
@@ -35,25 +32,12 @@ B. Parasites do not live long enough to inherit acquired characteristics.
 * C. Simple morphologies have been naturally selected for in most parasites.
 D. Parasites have not yet had time to progress, because they evolved recently.
 
-MC. Which of the following is a fitness trade-off? 
+MC. Which of the following is an example of a fitness trade-off?
 
 A. In some hornbill species, the male helps seal the female in a tree with her nest until the young are ready to fledge.  
 B. Moths are the best pollinators for datura flowers, but bees are the best pollinators for orchids.  
 C. Some lemmings run into the sea when overgrazing threatens the species.  
 * D. Algal genotypes that can grow fast in nitrogen-limited environments are easier for predators to digest. 
-
-MC. Which of the following is an example of a fitness trade-off?
-
-A. In some hornbill species, the male helps seal the female in a tree
-with her nest until the young are ready to fledge.
-
-B. Moths are the best pollinators for datura flowers, but bees are the
-best pollinators for orchids.
-
-C. Some lemmings run into the sea when overgrazing threatens the species.
-
-* D. Tree species that grow the fastest in high-light conditions do
-not survive as well as other species in low-light conditions
 
 MC. You observe that in a certain population of birds individuals with sharper beaks survive better and reproduce more than individuals with less sharp beaks.  You therefore embark on a study to see if beak shape is evolving in this population.  If you later find that beak shape does not change over many generations, which of the following would be a reasonable conclusion?
 
@@ -69,6 +53,22 @@ A. The gazelles are male gazelles trying to show females that they have good gen
 B. The gazelles want to show the predator how fast and athletic they are, so that the predator will give up the chase and the gazelle can get back to eating
 * C. The gazelles want to warn the rest of the herd of the presence of predators, for the good of the species
 D. The gazelles want to see if there are any other predators hiding nearby
+
+
+----------------------------------------------------------------------
+
+MC. Which of the following is an example of a fitness trade-off?
+
+A. In some hornbill species, the male helps seal the female in a tree
+with her nest until the young are ready to fledge.
+
+B. Moths are the best pollinators for datura flowers, but bees are the
+best pollinators for orchids.
+
+C. Some lemmings run into the sea when overgrazing threatens the species.
+
+* D. Tree species that grow the fastest in high-light conditions do
+not survive as well as other species in low-light conditions
 
 MC. Which of the following does _not_ provide evidence _against_ the idea of goal-directed evolution?
 

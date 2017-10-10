@@ -1,19 +1,12 @@
 
+Examples posted for 2017_1
+
 MC. What sort of evidence would falsify the statement "All primates
 have fingernails"?
 
 * A. A primate that does not have fingernails
 B. A non-primate that does not have fingernails
 C. A non-primate that does have fingernails
-D. A slice of pizza
-E. Either A or C
-
-
-MC. What sort of evidence would falsify the statement "All flowering plants reproduce sexually"?
-
-* A. A flowering plant that does not reproduce sexually
-B. A non-flowering plant that does not reproduce sexually
-C. A non-flowering plant that does reproduce sexually
 D. A slice of pizza
 E. Either A or C
 
@@ -33,6 +26,20 @@ B. The experimenter may not have allowed enough time for spontaneous generation 
 C. The right kind of bacteria may not be present in the laboratory environment
 * D. Spontaneous generation may require free air flow, which may have been blocked by the swan-necked flasks
 E. The broth may not have been nutritious enough
+
+
+----------------------------------------------------------------------
+
+Other old
+
+MC. What sort of evidence would falsify the statement "All flowering plants reproduce sexually"?
+
+* A. A flowering plant that does not reproduce sexually
+B. A non-flowering plant that does not reproduce sexually
+C. A non-flowering plant that does reproduce sexually
+D. A slice of pizza
+E. Either A or C
+
 
 MC. A researcher wants to train birds to jump and to peck in response to different stimuli.  Which of the following strategies is most likely to be successful?
 
