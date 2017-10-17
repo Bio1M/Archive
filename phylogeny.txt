@@ -1,57 +1,14 @@
 
-MC. You are given data from a DNA hybridization study on a group of bacteria.  This data indicates how similar the DNA of each type is to that of each other type, but not what the differences are.  What kind of phylogenetic analysis could you do on these data?
+You are studying a new clade, and identify three derived traits: flight, blueness and singing.  Species A is blue (only).  Species B flies and sings.  Species C is blue, flies and sings.
 
-*A. Phenetic analysis
-B. Cladistic analysis
-C. Parsimony analysis
-D. Either A or B
-E. No phylogenetic analysis can be done
+a) Make three separate, labeled trees showing the phylogenetic relationship between A, B and C that you would infer if you looked only at one trait at a time. 
 
-MC.  Your professor wants you to construct a phylogenetic tree of orchids. She gives you tissue from seven orchid species and one lily. What is the most likely reason she gave you the lily?
+KEY Tree labeled “blue” should group A and C. Trees labeled “flies” and “sings” should group B and C.
 
-* A. To serve as an out-group
-B. To see if it's an unrecognized species of orchid
-C. To see if the lily and the orchids show all the same shared derived characters (synapomorphies)
-D. To see if you were paying attention
+b) Based on all the data above, what is your best guess for the correct phylogenetic tree, and why? 
 
-(primates figure)
+KEY A tree grouping B and C (matching the "flies" or "sings" tree above),  because this provides the most parsimonious explanation of how the traits could have evolved.
 
-MC. Which of the groups of taxa identified on this tree is _not_ monophyletic?
+c) Which of the trees from part a) differs from the one in part b)? 
 
-A. Self-important primates (SIPs)
-B. Hominids
-C. Chimpanzees
-* D. Apes
-E. Gorillas
-
-MC. According to the figure above, which of the following groups is _not_ a clade?
-
-A. Hominids
-B. Chimpanzees
-*C. Apes
-D. Gorillas
-E. Australopithecus
-
-MC. According to the figure above, which of the following is _not_ a pair of sister taxa?
-
-A. SIPs (self-important primates) and gorillas
-B. Chimpanzees and hominids
-C. Chimps and bonobos
-*D. Chimpanzees and gorillas
-E. Humans and Australopithecus
-
-MC. You find a new fossil deposit with many red algal species, but no green plant species.  What would you conclude?
-
-A. There were no plant species present at this time and location
-B. Conditions were not right to fossilize plant species at this time and location
-C. There was a mass extinction event among plant species at this time and location
-*D. Either A or B
-E. Either B or C
-
-MC. Which of the following statements best describes the use of the principle of parsimony in constructing phylogenetic trees?
-
-A. We use the tree that best reflects the molecular clock
-*B. We use the simplest tree that describes observed patterns
-C. We use synapomorphies to identify related species
-D. We use an outgroup to root the tree
-E. We use parsimony to calculate the likelihood of the tree
+KEY The one for blueness
