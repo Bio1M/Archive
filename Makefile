@@ -14,6 +14,7 @@ include sub.mk
 ##################################################################
 
 ## Content
+## Publicly available test and practice questions. Still haven't found everything from pre-2010
 
 ## Bank has been sorted; should contain only _links_ to .doc versions
 Sources += bank.txt
