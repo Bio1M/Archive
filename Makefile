@@ -1,19 +1,19 @@
-# Archive
-### Hooks for the editor to set the default target
+## This is Bio1MArchive, a screens project directory
+## 1M/Archive
+## makestuff/project.Makefile
+
 current: target
-target = Makefile
 -include target.mk
-target: $(target)
 
-##################################################################
+# include makestuff/perl.def
 
-Sources += Makefile .ignore README.md sub.mk LICENSE.md
-include sub.mk
-# include $(ms)/perl.def
+######################################################################
 
-##################################################################
+# Content
 
-## Content
+vim_session:
+	bash -cl "vmt"
+
 ## Publicly available test and practice questions. Still haven't found everything from pre-2010
 
 ## Bank has been sorted; should contain only _links_ to .doc versions
@@ -45,8 +45,18 @@ allemf:
 
 ######################################################################
 
--include $(ms)/git.mk
--include $(ms)/visual.mk
+### Makestuff
 
-# -include $(ms)/wrapR.mk
-# -include $(ms)/oldlatex.mk
+Sources += Makefile
+
+Ignore += makestuff
+msrepo = https://github.com/dushoff
+Makefile: makestuff/Makefile
+makestuff/Makefile:
+	git clone $(msrepo)/makestuff
+	ls $@
+
+-include makestuff/os.mk
+-include makestuff/git.mk
+-include makestuff/visual.mk
+-include makestuff/projdir.mk
