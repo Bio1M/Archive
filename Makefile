@@ -9,10 +9,10 @@ current: target
 
 ######################################################################
 
-# Content
-
 vim_session:
 	bash -cl "vmt"
+
+######################################################################
 
 ## Publicly available test and practice questions. Still haven't found everything from pre-2010
 
@@ -26,6 +26,17 @@ Sources += intro.txt ns.txt processes.txt speciation.txt phylogeny.txt apes.txt 
 ## ecology includes a lot of behaviour stuff; maybe that's what it should be called
 ## taxa is probably forever eliminated
 Sources += taxa.txt ecology.txt humans.txt
+
+######################################################################
+
+## Old tests from source
+
+Sources += $(wildcard *.test)
+
+## 201701.test
+## 201801.test
+
+######################################################################
 
 Sources += images/
 
