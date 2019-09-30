@@ -58,7 +58,7 @@ allemf:
 
 ### Makestuff
 
-Sources += Makefile
+Sources += Makefile README.md
 
 Ignore += makestuff
 msrepo = https://github.com/dushoff
