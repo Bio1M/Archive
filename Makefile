@@ -1,6 +1,7 @@
 ## This is Bio1MArchive, a screens project directory
 ## 1M/Archive
 ## makestuff/project.Makefile
+## TODO: A principled pipeline for moving things from tests to here.
 
 current: target
 -include target.mk
