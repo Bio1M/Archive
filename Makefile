@@ -35,25 +35,14 @@ Sources += taxa.txt ecology.txt humans.txt
 Sources += $(wildcard *.test)
 
 ## 201701.test
-
 ## 201801.test ## Probably needs to be updated, see ../Tests
 ## 201802.test 
-
-2018F.test:
-	cp ../Tests/final.test $@
-
-201901.test:
-	cp ../Tests/midterm1.test $@
-
-%.rmk:
-	$(RM) $*
-	$(MAKE) $*
-
 
 ######################################################################
 
 Sources += images/
 
+Ignore += products
 products:
 	$(mkdir)
 
